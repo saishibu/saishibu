@@ -1,4 +1,4 @@
-I am @saishibu, researcher at Amrita Vishwa Vidyapeetham. I'm currently working on Blockchain, IoT and Machine Learning projects. Im also learning UI/UX design and development. You can reach me at saishibu38380@gmail.com.
+I am Sai Shibu, researcher at Amrita Vishwa Vidyapeetham. I'm currently working on Blockchain, IoT and Machine Learning projects. Im also learning UI/UX design and development. You can reach me at saishibu38380@gmail.com.
 
 <!---
 - 👋 Hi, I’m @saishibu
