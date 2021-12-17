@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ![nodemcu](https://img.shields.io/badge/nodemcu-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
 
 
-#### Operating Systems Im familiar with:  <br />
+#### Operating Systems I'm familiar with:  <br />
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![u](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![w](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
