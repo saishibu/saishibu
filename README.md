@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
-![nodemcu](https://img.shields.io/badge/sai-000000?style=for-the-badge&logo={espressif}&logoColor=white)&nbsp;
+![nodemcu](https://img.shields.io/badge/nodemcu-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
 
 
 #### Operating Systems Im familiar with:  <br />
