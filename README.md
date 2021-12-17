@@ -29,6 +29,4 @@ You can click the Preview link to take a look at your changes.
 [![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/saishibu)&nbsp;
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishibu38380@gmail.com)&nbsp;
 
-![Sai Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saishibu)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saishibu&hide=Jupyter)
+![Sai Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saishibu) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saishibu&hide=JupyterNotebook)
