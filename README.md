@@ -20,12 +20,14 @@ You can click the Preview link to take a look at your changes.
 ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 ![nodemcu](https://img.shields.io/badge/nodemcu-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![ESPHOME](https://img.shields.io/badge/ESP%20Home-000000?style=for-the-badge&logo=esphome&logoColor=white)&nbsp;
 
 
 #### Operating Systems I'm familiar with:  <br />
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![u](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![w](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![hass](https://img.shields.io/badge/Home%20Assistant-0078D6?style=for-the-badge&logo=homeassistant&logoColor=white)&nbsp;
 
 #### Cloud Technologies I use: <br />
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
