@@ -63,10 +63,16 @@ You can click the Preview link to take a look at your changes.
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![LR](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)&nbsp;
 
-
-📫 Reach me on: ... <br />
+#### Reach me on: <br />
 [![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/saishibu)&nbsp;
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishibu38380@gmail.com)&nbsp;
+
+#### My Research Publications: <br />
+[![googlescholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.in/citations?user=XaYGOZQAAAAJ&hl=en)&nbsp;
+[![rg](https://img.shields.io/badge/Research%20Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sai-Shibu-N-B)&nbsp;
+[![scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57202291162)&nbsp;
+[![orcid](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5116-3761)&nbsp;
+
 
 ![Sai Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saishibu)&nbsp;
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saishibu&hide=Jupyter Notebook) -->
