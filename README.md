@@ -12,7 +12,7 @@ saishibu/saishibu is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🌱 I’m currently learning ethereum and IOTA Blockchain Platforms, also UI/UX using Figma.
+- 🌱 I’m currently learning ethereum and IOTA Blockchain Platforms.
 - 💞️ I’m looking to collaborate on Blockchain based projects, IoT based realtime monitoring, Embedded Systems and Home automation
 
 #### Embedded Devices I work with:  <br />
