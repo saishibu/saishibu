@@ -1,4 +1,4 @@
-I am Sai Shibu, researcher at Amrita Vishwa Vidyapeetham. I'm currently working on Blockchain, IoT and Machine Learning projects.
+I am Sai Shibu, researcher at Amrita Vishwa Vidyapeetham. I'm currently working on Blockchain, IoT and Machine Learning projects. I am also into cryptocurrency mining and NFT minting. 
 
 <!---
 - 👋 Hi, I’m @saishibu
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 🌱 I’m currently learning ethereum and IOTA Blockchain Platforms.
-- 💞️ I’m looking to collaborate on Blockchain based projects, IoT based realtime monitoring, Embedded Systems and Home automation
+- 💞️ I’m looking to collaborate on Blockchain based projects, IoT based realtime monitoring, Embedded Systems and Home automation.
 
 #### Embedded Devices I work with:  <br />
 ![RPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Design Tools: <br />
 ![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+<!-- ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; -->
 ![LR](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)&nbsp;
 
 #### Reach me on: <br />
